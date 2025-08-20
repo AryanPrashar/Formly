@@ -23,18 +23,9 @@ General Idea:
 <img width="4000" height="4000" alt="SIGN UP (1)" src="https://github.com/user-attachments/assets/422782af-eb80-4751-9208-d92de5e39165" />
 
 ## Day 4 to 6 
-<<<<<<< HEAD
-Figured out development resource for my app
-Setup "Flutter"
-Created a basic UI and app design with vibe coding
-Setup features (AI-based chat, Motion Tracking Camera)
 
-![alt text](<Untitled Video August 20, 2025 5_10 PM.gif>)
-![alt text](Chat.png) ![alt text](<Form Fixer.png>) ![alt text](Home.png) ![alt text](Main.png) ![alt text](Settings.png)
-=======
 1. Figured out development resource for my app
 2. Setup "Flutter"
 3. Created a basic UI and app design with vibe coding
 4. Setup features (AI-based chat, Motion Tracking Camera)
 
->>>>>>> 3dfda30bb05bf82d998ac6e244e402df898d1af9
