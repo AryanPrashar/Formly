@@ -27,3 +27,6 @@ Figured out development resource for my app
 Setup "Flutter"
 Created a basic UI and app design with vibe coding
 Setup features (AI-based chat, Motion Tracking Camera)
+
+![alt text](<Untitled Video August 20, 2025 5_10 PM.gif>)
+![alt text](Chat.png) ![alt text](<Form Fixer.png>) ![alt text](Home.png) ![alt text](Main.png) ![alt text](Settings.png)
