@@ -29,3 +29,12 @@ General Idea:
 3. Created a basic UI and app design with vibe coding
 4. Setup features (AI-based chat, Motion Tracking Camera)
 
+<img width="468" height="712" alt="Image" src="https://github.com/user-attachments/assets/2e8a05f6-1a8d-4418-8752-f168b26ef27f" />
+
+<img width="379" height="714" alt="Image" src="https://github.com/user-attachments/assets/f773dbef-0eee-424f-9c4f-f5c94c4b4c9f" />
+
+<img width="476" height="716" alt="Image" src="https://github.com/user-attachments/assets/30ed7d43-948b-4ddb-b646-f501d3486a10" />
+
+<img width="466" height="711" alt="Image" src="https://github.com/user-attachments/assets/51fc7df8-2e15-4c4f-9907-ce8a60260dbf" />
+
+<img width="414" height="711" alt="Image" src="https://github.com/user-attachments/assets/68d3d024-24d7-4908-82eb-adb80419bb0f" />
