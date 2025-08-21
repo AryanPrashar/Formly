@@ -1,0 +1,19 @@
+{
+  "app_name": "FORMLY",
+  "hero_title_1": "Train Smarter",
+  "hero_title_2": "Move Better",
+  "cta_get_started": "Get Started",
+  "cta_have_account": "Already have an account?",
+  "cta_signup": "Sign Up",
+  "lang_en": "EN",
+  "lang_es": "ES",
+  "lang_fr": "FR",
+  "choose_language": "Choose language",
+  "login_email": "Email",
+  "login_password": "Password",
+  "login_sign_in": "Log in",
+  "signup_name": "Name",
+  "signup_email": "Email",
+  "signup_password": "Password",
+  "signup_create": "Create account"
+}

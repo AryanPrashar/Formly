@@ -1,0 +1,19 @@
+{
+  "app_name": "FORMLY",
+  "hero_title_1": "S'entraîner plus intelligemment",
+  "hero_title_2": "Bouger mieux",
+  "cta_get_started": "Commencer",
+  "cta_have_account": "Vous avez déjà un compte ?",
+  "cta_signup": "S'inscrire",
+  "lang_en": "EN",
+  "lang_es": "ES",
+  "lang_fr": "FR",
+  "choose_language": "Choisir la langue",
+  "login_email": "E-mail",
+  "login_password": "Mot de passe",
+  "login_sign_in": "Se connecter",
+  "signup_name": "Nom",
+  "signup_email": "E-mail",
+  "signup_password": "Mot de passe",
+  "signup_create": "Créer le compte"
+}
